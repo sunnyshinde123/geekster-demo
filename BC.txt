@@ -1,0 +1,33 @@
+
+Search Any URL on Any Browser --> ISP --> DNS--|URL|IP Address
+
+1> pwd- Curr Dir Info
+2> cd Desktop - open any dir
+3> ls -list of doc
+4> mkdir name of folder- create/make dir/folder
+5> mkdir html css js - in one line make more folder
+6> ls -la --> Complete details of that folder
+7> cd.. -- previous folder
+8> touch day1.txt --> make txt file/ or any file-0-> for making file
+9> nano day1.txt --> open any file
+write anything in open file
+10> cat day1.txt --> What we have written in that file we have to see this 
+11> rm day1.txt --> remove any file from the folder
+12> rmdir folder name--> for remove the folder
+13> clear --> Clear means remove
+14> mv img.html ../react/ --> move file to react folder through two folder passing
+15> mv img.html ..../react/ --> Move file to in React folder passing by 4 folder
+
+Git--> Version Control like track the Path with the help of Some Command
+
+Github --> Service Provider/Platform where you can push anything/ Service Team / Share or Manage yours Code
+
+git config --global username.name 
+git config --global username.email --> Perform on Git Bash to connect the Git bash with github
+
+
+
+
+
+
+
