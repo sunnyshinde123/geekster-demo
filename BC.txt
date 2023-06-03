@@ -22,8 +22,15 @@ Git--> Version Control like track the Path with the help of Some Command
 
 Github --> Service Provider/Platform where you can push anything/ Service Team / Share or Manage yours Code
 
-git config --global username.name 
-git config --global username.email --> Perform on Git Bash to connect the Git bash with github
+git config --global user.name "username"
+git config --global user.name "email" --> Perform on Git Bash to connect the Git bash with github
+
+git init to Initialized git in any file
+git status
+git add file.txt
+git reset file.txt
+git add . --> for to add File in that folder
+
 
 
 
